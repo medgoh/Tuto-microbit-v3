@@ -1,6 +1,6 @@
 # TEST LED
 
-## Allume une LED
+## Allume deux LED
 
 Drag the code to toggle an LED.
 
