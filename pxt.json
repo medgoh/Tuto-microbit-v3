@@ -1,6 +1,6 @@
 {
     "name": "microbit-tutorials",
-    "version": "2.1.1",
+    "version": "3.1.1",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -11,13 +11,13 @@
         "main.ts",
         "README.md",
         "drole.md",
-	"drole.md"
+	"drole2.md"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.0.0",
+        "target": "2.0.0",
         "targetId": "microbit"
     },
     "supportedTargets": [
