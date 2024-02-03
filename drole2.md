@@ -16,6 +16,7 @@ Dans la boite à outils, clique sur la section ``||input:Entrée||`` et déplace
 Clique sur ``|Next|``.
 ``` blocks
 input.onButtonPressed(Button.A, function () {
+record.startRecording(record.BlockingState.Blocking)
 })
 ``` 
 
